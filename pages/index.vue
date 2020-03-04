@@ -1,7 +1,7 @@
 <template>
   <div class="container">
     <div>
-      <logo />
+      <calc />
       <h1 class="title">
         building-split
       </h1>
@@ -29,11 +29,11 @@
 </template>
 
 <script>
-import Logo from '~/components/Logo.vue'
+import Calc from '~/components/Calc.vue'
 
 export default {
   components: {
-    Logo
+    Calc
   }
 }
 </script>
