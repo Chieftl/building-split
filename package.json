@@ -1,7 +1,7 @@
 {
   "name": "building-split",
   "version": "1.0.0",
-  "description": "My impressive Nuxt.js project",
+  "description": "My impressive Nuxt.js project for JOSM",
   "author": "Yuriy Ilkiv",
   "private": true,
   "scripts": {
